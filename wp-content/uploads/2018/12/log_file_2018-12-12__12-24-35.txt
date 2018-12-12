@@ -1,0 +1,77 @@
+
+---Downloaded files---
+The import files for: Health coach were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2018/12/demo-content-import-file_2018-12-12__12-24-35.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/2018/12/demo-widgets-import-file_2018-12-12__12-24-35.json
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/uploads/2018/12/demo-customizer-import-file_2018-12-12__12-24-35.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Wyszukiwanie - No Title - Widget already exists
+Najnowsze wpisy - No Title - Widget already exists
+Najnowsze komentarze - No Title - Widget already exists
+Archiwa - No Title - Widget already exists
+Kategorie - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Tekst - No Title - Imported
+
+Footer 2 : 
+
+Tekst - Contact us - Imported
+
+Footer 3 : 
+
+Nawigacyjne menu - Quick links - Imported
+
+Footer 4 : 
+
+Airi: Social Profile - Follow us - Imported
+
+
+
+---Importing widgets---
+Sidebar : 
+
+Wyszukiwanie - No Title - Widget already exists
+Najnowsze wpisy - No Title - Widget already exists
+Najnowsze komentarze - No Title - Widget already exists
+Archiwa - No Title - Widget already exists
+Kategorie - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Tekst - No Title - Widget already exists
+
+Footer 2 : 
+
+Tekst - Contact us - Widget already exists
+
+Footer 3 : 
+
+Nawigacyjne menu - Quick links - Widget already exists
+
+Footer 4 : 
+
+Airi: Social Profile - Follow us - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
