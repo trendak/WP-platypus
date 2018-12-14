@@ -1,3 +1,75 @@
+----------12-13-2018 @ 12:39:51----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 056f8fef71
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\wordpress\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------12-13-2018 @ 12:39:50----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 056f8fef71
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\wordpress\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------12-13-2018 @ 12:39:48----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 056f8fef71
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\wordpress\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
 ----------12-12-2018 @ 13:28:45----------
 Array
 (
